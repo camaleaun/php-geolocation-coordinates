@@ -1,0 +1,17 @@
+{
+    "name": "camaleaun/php-geolocation-coordinates",
+    "description": "Handles geolocation coordinates Latitude and Longitude values and output in DD or DMS formats.",
+    "version": "1.0.0",
+    "type": "library",
+    "autoload": {
+        "files": [
+            "geolocation-coordinates.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Gilberto Tavares",
+            "email": "camaleaun@gmail.com"
+        }
+    ]
+}
